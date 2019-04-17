@@ -1,1 +1,1 @@
-# BlackHoleM87
+Black Hole M87 was created during the 48 hour 2019 MULE Game Jam hosted by the University of Missouri on April 12-14. It was created as a solo project. It was created using the Unity Engine. It won 2nd place at the event.
